@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubhankar Sarangi</h1>
 <h3 align="center">A software engineer and full stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blacroc10" alt="blacroc10" /></a> </p>
+
 
 - 🌱 I’m currently learning **Java, Unity, C, C#**
 
