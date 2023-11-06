@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **shubhankarsarangi@gmail.com**
 
-- ⚡ Fun fact **I'm a state taekwondo champion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
