@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Java, C#**
+- 🌱 I’m currently learning **C, C++**
 
 - 📫 How to reach me **shubhankarsarangi@gmail.com**
 
