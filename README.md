@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shubhankar Sarangi</h1>
-<h3 align="center">A software engineer and coding enthusiast</h3>
+<h1 align="center">Shubhankar Sarangi</h1>
+<h3 align="center">An aspiring systems programmer</h3>
 
 
 
