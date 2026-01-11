@@ -1,9 +1,9 @@
 <h1 align="center">Shubhankar Sarangi</h1>
-<h3 align="center">An aspiring systems programmer</h3>
+<h3 align="center"></h3>
 
 
 
-- 🌱 I’m currently learning **C, C++**
+- 🌱 I’m currently learning **cybersec**
 
 - 📫 How to reach me **shubhankarsarangi@gmail.com**
 
