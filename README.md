@@ -1,9 +1,9 @@
-<h1 align="center">Shubhankar Sarangi</h1>
+<h2 align="center">shubhankar sarangi</h2>
 <h3 align="center"></h3>
 
 
 
-Currently learning **cybersec**
+Currently learning cybersec
 
 
 
