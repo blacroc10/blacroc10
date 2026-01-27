@@ -3,9 +3,8 @@
 
 
 
-- 🌱 I’m currently learning **cybersec**
+Currently learning **cybersec**
 
-- 📫 How to reach me **shubhankarsarangi@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
