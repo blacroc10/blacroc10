@@ -13,15 +13,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blacroc10&theme=radical)](https://github.com/blacroc10)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blacroc10&layout=compact&theme=radical)](https://github.com/blacroc10)
 
-## 🔥 Focus Areas
-- Cloud Computing & AWS deployments [web:1][web:3]
-- AI/ML (PyTorch, Hugging Face, RAG models)
-- Game Development (Unity, Flutter, Pygame)
-- Open Source & CTF challenges
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=blacroc10&color=0FBBA1&style=for-the-badge" alt="Visitor Badge" />
 </div>
 
-**📫 Connect:** [LinkedIn](https://linkedin.com/in/shubhankar-sarangi) | [GitHub](https://github.com/blacroc10)
+**📫 Connect:** [LinkedIn](https://linkedin.com/in/shubhankar-sarangi)
 
