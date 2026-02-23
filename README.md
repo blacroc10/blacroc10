@@ -1,6 +1,6 @@
 # Shubhankar Sarangi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0FBBA1&center=true&vCenter=true&width=435&lines=Full-stack+Developer;AI/ML+Enthusiast;Cloud+Computing;Game+Developer;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0FBBA1&center=true&vCenter=true&width=435&lines=Cybersec+Enthusiast;Cloud+Developer;Open+Source+Contributor" alt="Typing SVG" />
 
 ## 🛠️ Tech Stack
 
