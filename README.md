@@ -11,7 +11,6 @@
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blacroc10&theme=radical)](https://github.com/blacroc10)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blacroc10&layout=compact&theme=radical)](https://github.com/blacroc10)
 
 
 <div align="center">
