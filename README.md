@@ -26,23 +26,8 @@ A results-driven Computer Science professional specializing in cloud infrastruct
 
 -----
 
-### GitHub Analytics
-
-\<p align="left"\>
-\<img src="[https://github-readme-streak-stats.herokuapp.com/?user=blacroc10\&theme=radical\&hide\_border=true](https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dblacroc10%26theme%3Dradical%26hide_border%3Dtrue)" alt="GitHub Streak" width="400"/\>
-\</p\>
-
------
-
 ### Contact
 
   * **LinkedIn:** [linkedin.com/in/shubhankar-sarangi](https://linkedin.com/in/shubhankar-sarangi)
-  * **Email:** [Your Professional Email Here]
-
-\<div align="center"\>
-\<img src="[https://komarev.com/ghpvc/?username=blacroc10\&color=0FBBA1\&style=flat-square\&label=PROFILE+VIEWS](https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dblacroc10%26color%3D0FBBA1%26style%3Dflat-square%26label%3DPROFILE%2BVIEWS)" alt="Visitor Badge" /\>
-\</div\>
-
------
 
 
