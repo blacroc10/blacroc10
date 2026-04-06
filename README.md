@@ -26,8 +26,5 @@ A results-driven Computer Science professional specializing in cloud infrastruct
 
 -----
 
-### Contact
-
-  * **LinkedIn:** [linkedin.com/in/shubhankar-sarangi](https://linkedin.com/in/shubhankar-sarangi)
 
 
