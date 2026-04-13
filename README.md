@@ -20,9 +20,9 @@ A results-driven Computer Science professional specializing in cloud infrastruct
 
 ### Key Projects & Research
 
-  * **ASR-3D Forensic Pipeline:** Developed a hybrid AI pipeline for audio-to-facial attribute extraction, streamlining forensic data generation.
+  * identif.ai:** Developed a hybrid AI pipeline for audio-to-facial attribute extraction, streamlining forensic data generation.
   * **FraudShield:** Engineered a real-time fraud detection and prevention system designed for high-stakes hackathon environments.
-  * **Network Architecture:** Designed and simulated secure network topologies using industry-standard diagnostic tools and cloud environments.
+  * **JOY:** Virtual AI-powered Emotional Therapist utilizing affective computing and contextual memory.
 
 -----
 
