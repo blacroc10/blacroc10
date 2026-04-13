@@ -1,6 +1,6 @@
 # Shubhankar Sarangi
 
-**Cloud Developer | Cybersecurity Enthusiast | Open Source Contributor**
+** Cybersecurity Enthusiast | Cloud Developer | Open Source Contributor**
 
 A results-driven Computer Science professional specializing in cloud infrastructure, machine learning pipelines, and cybersecurity. Currently focused on developing scalable AI solutions and securing network architectures.
 
